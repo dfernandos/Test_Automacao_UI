@@ -1,6 +1,6 @@
 # prova_sicredi
 
-Projeto criado para processo seletivo Stefanini.
+Projeto criado para processo seletivo time sicred.
 
 # Descriçao do projeto:
 
