@@ -1,6 +1,6 @@
 # prova_sicredi
 
-Projeto criado para processo seletivo time sicred.
+Projeto criado para processo seletivo time Sicredi.
 
 # Descriçao do projeto:
 
