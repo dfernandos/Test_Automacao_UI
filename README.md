@@ -17,6 +17,8 @@ Automatizar o preenchimento do formulário e após o deletar.
 ```bash
 `mvn test`
 ```
+# Nota
+Este projeto não está documentado nos commits porque transferi do GitLab(onde está documentado) para o GitHub.
 
 
 
