@@ -1,4 +1,4 @@
-# prova_sicredi
+# Test_Automação_UI
 
 Projeto criado para processo seletivo time Sicredi.
 
